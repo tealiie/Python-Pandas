@@ -4,7 +4,7 @@ Using Pandas library to analyze data for fictional fantasy game Heroes of Pymoli
 
 ## Description
 
-The Jupyter Notebook will analyze data to answer the following questions.
+The generated report will break down the game's purchasing data into meaningful insights by answering the following questions.
 
 ### Player Count
 
